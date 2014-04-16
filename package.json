@@ -28,14 +28,14 @@
   "dependencies": {
     "debug": "~0.7.4",
     "nano": "~4.6.1",
-    "lockit-signup": "0.7.0",
-    "lockit-login": "0.7.0",
-    "lockit-forgot-password": "0.5.0",
-    "lockit-delete-account": "0.6.0",
-    "lockit-utils": "0.2.0",
+    "lockit-signup": "https://github.com/hdeshmukh/lockit-signup/archive/v0.7.0.tar.gz",
+    "lockit-login": "https://github.com/hdeshmukh/lockit-login/archive/v0.7.0.tar.gz",
+    "lockit-forgot-password": "https://github.com/hdeshmukh/lockit-forgot-password/archive/v0.5.0.tar.gz",
+    "lockit-delete-account": "https://github.com/hdeshmukh/lockit-delete-account/archive/v0.6.0.tar.gz",
+    "lockit-utils": "https://github.com/hdeshmukh/lockit-utilities/archive/v0.2.0.tar.gz",
     "node.extend": "~1.0.9",
     "chalk": "~0.4.0",
-    "lockit-sql-adapter": "0.4.0",
+    "lockit-sql-adapter": "https://github.com/hdeshmukh/lockit-sql-adapter/archive/v0.4.0.tar.gz",
     "sqlite3": "~2.2.0"
   },
   "devDependencies": {
